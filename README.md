@@ -123,10 +123,11 @@ LearnSign addresses all these challenges through innovative technology and thoug
 
 ### Course Catalog
 ![Course Catalog](screenshots/courses.png)
+![Course Catalog](screenshots/age.png)
 *Comprehensive sign language courses organized by age groups - All courses are completely FREE!*
 
 ### Video Learning Interface
-![Video Tutorial](screenshots/video-tutorial.png)
+![Video Tutorial](screenshots/video.png)
 *Interactive video lessons with progress tracking and learning objectives*
 
 ### AI-Powered Quiz Session
