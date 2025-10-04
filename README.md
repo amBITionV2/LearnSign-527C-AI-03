@@ -101,7 +101,6 @@ LearnSign addresses all these challenges through innovative technology and thoug
 
 - **Video Tutorials**: High-quality instructional videos with professional instructors
 - **Quiz Sessions**: Interactive camera-based quizzes that test your signing skills
-- **Real-Time Translation**: Convert text to sign language animations
 - **Progress Tracking**: Detailed analytics on your learning journey
 - **Community Features**: Connect with other learners and share experiences
 
@@ -134,10 +133,6 @@ LearnSign addresses all these challenges through innovative technology and thoug
 ![Quiz Interface](screenshots/quiz.png)
 *Practice with our AI-powered recognition system - Get real-time feedback on your signs*
 
-### Translation Feature
-![Translation Tool](screenshots/translate.png)
-*Convert text to sign language animations instantly*
-
 ---
 
 ## 🛠️ Technology Stack
@@ -158,16 +153,14 @@ LearnSign addresses all these challenges through innovative technology and thoug
 ### Database
 - **Database**: MongoDB (NoSQL)
 - **ODM**: Mongoose
-- **Cloud**: MongoDB Atlas (recommended)
+- **Cloud**: MongoDB Atlas
 
 ### AI/Machine Learning (Python Integration)
 - **Framework**: TensorFlow/Keras
 - **Computer Vision**: OpenCV
-- **API Bridge**: Python Flask APIs
+- **API Bridge**: Python FastAPI
 - **Model Types**: 
   - Sign language gesture recognition
-  - Text-to-sign translation
-  - Numbers and letters recognition
 
 ### Development Tools
 - **Package Manager**: npm
