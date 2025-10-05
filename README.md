@@ -628,11 +628,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **LearnSign Development Team**
 
-- Project Lead: [Your Name]
-- AI/ML Engineers: [Team Members]
-- Frontend Developers: [Team Members]
-- Backend Developers: [Team Members]
-- UX/UI Designers: [Team Members]
+- Project Lead & AI/ML Developer: Amith K M
+- Frontend Developers: Prajwal K 
+- Backend Developers: Adarsh K R
 
 ---
 
